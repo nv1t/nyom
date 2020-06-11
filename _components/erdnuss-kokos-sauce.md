@@ -2,7 +2,7 @@
 
 layout: recipe
 title: "Erdnuss-Kokos Sauce"
-image:
+image: erdnuss-kokos-sauce.jpg
 
 ingredients:
 - 100 ml Kokosmilch
