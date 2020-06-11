@@ -23,7 +23,7 @@ directions:
 - Den Reis in einen tiefen Teller geben und die restlichen Zutaten (Flower Sprouts, Rote Bete, Sprossen, Karotten, Kichererbsen und Linsen) um den Reis anordnen. Die Soße darüber geben und mit den restlichen Erdnüssen bestreuen.
 
 components:
-- erdnuss-kokos-sauce.md
+- Erdnuss-Kokos Sauce
 
 ---
 
