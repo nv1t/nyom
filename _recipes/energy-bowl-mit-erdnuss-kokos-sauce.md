@@ -4,6 +4,7 @@ layout: recipe
 title:  "Energy Bowl mit Erdnuss Kokos Sauce"
 image: energy-bowl-mit-erdnuss-kokos-sauce.jpg
 tags: bowl, vegetables, vegan
+source: https://veganheaven.de/Rezepte/energy-bowl-mit-erdnuss-kokos-sauce/
 
 ingredients:
 - 100 g Vollkornreis
@@ -27,4 +28,4 @@ components:
 
 ---
 
-(Quelle: https://veganheaven.de/Rezepte/energy-bowl-mit-erdnuss-kokos-sauce/)
+
