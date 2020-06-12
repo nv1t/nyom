@@ -2,7 +2,7 @@
 title: VeganRecipes
 email: your-email@domain.com
 description: The plain text recipe database for hackers
-baseurl: "https://nv1t.github.io/rezepte"
+baseurl: "https://nv1t.github.io/nyom"
 language: "en"
 lang_direction: "ltr"
 color: "#007FFF"
