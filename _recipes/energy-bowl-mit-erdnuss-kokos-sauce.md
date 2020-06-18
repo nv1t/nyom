@@ -20,8 +20,8 @@ directions:
 - Den Reis und die Linsen nach Packungsanweisung zubereiten. Die Linsen statt in Salzwasser in Gemüsebrühe kochen.
 - Die Karotten mit einem Spiralschneider in Spaghettiform schneiden. Alternativ kann man sie auch einfach grob raspeln.
 - Die Rote Bete in Scheiben schneiden. Die Kichererbsen abspülen. Die Flower Sprouts kurz andünsten (circa 3-4 Minuten).
-- Dann die Soße zubereiten. Die Kokosmilch zusammen mit der Erdnussbutter in eine Pfanne geben und gut verrühren. Mit Zitronensaft, Sojasauce, Chilflocken, Salz und Pfeffer würzen. Die Hälfte der gerösteten Erdnüsse zur Soße geben. Alles kurz aufkochen lassen.
-- Den Reis in einen tiefen Teller geben und die restlichen Zutaten (Flower Sprouts, Rote Bete, Sprossen, Karotten, Kichererbsen und Linsen) um den Reis anordnen. Die Soße darüber geben und mit den restlichen Erdnüssen bestreuen.
+- Dann die Soße zubereiten. 
+- Den Reis in einen tiefen Teller geben und die restlichen Zutaten (Flower Sprouts, Rote Bete, Sprossen, Karotten, Kichererbsen und Linsen) um den Reis anordnen. Die Soße darüber geben und mit den Erdnüssen bestreuen.
 
 components:
 - Erdnuss-Kokos Sauce
